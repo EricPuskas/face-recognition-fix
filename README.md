@@ -1,4 +1,5 @@
 # SmartBrain - v1
+
 Final project for ZTM course
 
 1. Clone this repo
@@ -8,4 +9,4 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-*visist https://zerotomastery.io/ for more*
+_visist https://zerotomastery.io/ for more_
